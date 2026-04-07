@@ -1,0 +1,81 @@
+# CV Data
+# Customize your curriculum vitae here
+
+education:
+  - degree: 水产养殖专业
+    institution: 厦门海洋职业技术学院
+    period: 2016 - 2019
+    description: 专注于水产养殖技术学习与实践。
+
+experience:
+  - position: 池塘养殖模式研究及病害防治专家
+    institution: 水产养殖基地
+    period: 2019 - 2024
+    description: 南美白对虾，罗氏沼虾，斑节对虾池塘养殖模式研究及病害防治。
+    responsibilities:
+      - 研究池塘养殖模式优化
+      - 病害防治技术研发
+      - 养殖技术指导
+
+  - position: 大黄鱼病害防治研究员
+    institution: 水产研究所
+    period: 2024 - 至今
+    description: 大黄鱼病害防治，大黄鱼锥体虫病害防治研究。
+    responsibilities:
+      - 大黄鱼病害诊断与防治
+      - 锥体虫病害研究
+      - 病害防治技术推广
+
+skills:
+  专业技能:
+    - 水产养殖技术
+    - 水生动物病害诊断与防治
+    - 池塘养殖模式设计
+    - 人工智能在水产养殖中的应用
+  
+  编程语言:
+    - Python (数据分析)
+    - R (统计分析)
+    - SQL (数据管理)
+  
+  工具:
+    - 水产病害检测设备操作
+    - 养殖环境监测系统
+    - 数据可视化工具
+    - 学术论文写作
+
+awards:
+  - title: 水产养殖技术创新奖
+    issuer: 福建省水产学会
+    date: 2023
+    description: 南美白对虾高效养殖模式研究与应用。
+
+  - title: 优秀毕业生
+    issuer: 厦门海洋职业技术学院
+    date: 2019
+    description: 专业成绩排名前5%，获得优秀毕业生称号。
+
+  - title: 水产病害防治技术能手
+    issuer: 福建省农业农村厅
+    date: 2022
+    description: 在水产病害防治技术推广中表现突出。
+
+languages:
+  - name: 中文
+    level: 母语
+  
+  - name: 英语
+    level: 流利
+
+teaching:
+  - course_name: 水产养殖技术
+    institution: 水产养殖培训中心
+    period: 2021 - 2023
+    role: 讲师
+    description: 为养殖从业者提供水产养殖技术培训，包括池塘管理、病害防治等。
+
+  - course_name: 人工智能在水产养殖中的应用
+    institution: 厦门海洋职业技术学院
+    period: 2024
+    role: 特邀讲师
+    description: 讲解人工智能技术在水产养殖环境监测和病害预测中的应用。

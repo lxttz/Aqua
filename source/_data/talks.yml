@@ -1,0 +1,50 @@
+# Talks Data
+# Add your academic talks and presentations below
+
+- title: 南美白对虾高效养殖模式的研究与实践
+  type: conference
+  year: 2023
+  date: 2023年10月15日
+  venue: 第九届中国水产学会学术年会
+  location: 厦门
+  description: 本报告介绍了南美白对虾高效养殖模式的研究成果，包括池塘生态调控、饲料优化和病害防控技术的综合应用，以及在实际养殖中的应用效果。
+  slides: #
+  video: #
+  paper: #
+
+- title: 大黄鱼锥体虫病害防治技术
+  type: workshop
+  year: 2024
+  date: 2024年3月20日
+  venue: 大黄鱼养殖技术培训班
+  location: 宁德
+  description: 本 workshop 详细介绍了大黄鱼锥体虫病害的诊断方法、治疗方案和预防措施，为养殖从业者提供实用的技术指导。
+  slides: #
+
+- title: 人工智能在水产养殖中的应用
+  type: seminar
+  year: 2024
+  date: 2024年2月10日
+  venue: 厦门海洋职业技术学院
+  location: 厦门
+  description: 本讲座探讨了人工智能技术在水产养殖环境监测、病害预测和智能养殖中的应用前景，以及相关研究进展。
+  slides: #
+
+- title: 罗氏沼虾和斑节对虾养殖技术优化
+  type: conference
+  year: 2022
+  date: 2022年8月5日
+  venue: 福建省水产养殖技术交流会
+  location: 福州
+  description: 本报告介绍了罗氏沼虾和斑节对虾养殖技术的优化方案，包括养殖密度、饲料配方和水质管理的最佳实践。
+  slides: #
+  paper: #
+
+- title: 水产养殖病害防治的最新进展
+  type: seminar
+  year: 2023
+  date: 2023年5月18日
+  venue: 福建省农业农村厅
+  location: 福州
+  description: 本讲座介绍了水产养殖病害防治的最新技术和研究进展，包括分子诊断技术、疫苗研发和生态防控策略。
+  slides: #

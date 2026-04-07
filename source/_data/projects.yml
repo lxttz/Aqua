@@ -1,0 +1,54 @@
+# Projects Data
+# Add your research projects below
+
+- title: 南美白对虾高效养殖模式研究
+  status: completed
+  category: 水产养殖
+  period: 2019 - 2022
+  description: 本项目针对南美白对虾养殖中的关键问题，研究了高效、环保的养殖模式，包括池塘生态调控、饲料优化和病害防控技术。通过实验验证，该模式可提高养殖效率30%，减少病害发生率25%。
+  tags:
+    - 南美白对虾
+    - 养殖模式
+    - 生态调控
+  publications:
+    - title: 南美白对虾高效养殖模式的研究与应用
+      link: #
+
+- title: 大黄鱼锥体虫病害防治研究
+  status: current
+  category: 病害防治
+  period: 2024 - 至今
+  description: 本项目专注于大黄鱼锥体虫病害的诊断与防治技术研究，开发了快速检测方法和高效治疗方案，为大黄鱼养殖业提供技术支持。
+  tags:
+    - 大黄鱼
+    - 锥体虫
+    - 病害防治
+  publications:
+    - title: 大黄鱼锥体虫病害的分子诊断与防治策略
+      link: #
+
+- title: 人工智能在水产养殖中的应用
+  status: current
+  category: 人工智能
+  period: 2023 - 至今
+  description: 本项目探索人工智能技术在水产养殖环境监测、病害预测和智能养殖中的应用，开发了基于机器学习的养殖环境预警系统和病害预测模型。
+  tags:
+    - 人工智能
+    - 机器学习
+    - 环境监测
+  publications:
+    - title: 基于机器学习的水产养殖环境监测系统研究
+      link: #
+
+- title: 罗氏沼虾和斑节对虾养殖技术优化
+  status: completed
+  category: 水产养殖
+  period: 2020 - 2023
+  description: 本项目针对罗氏沼虾和斑节对虾的养殖技术进行优化，研究了不同养殖密度、饲料配方和水质管理对养殖效果的影响，提出了适合本地环境的养殖技术方案。
+  tags:
+    - 罗氏沼虾
+    - 斑节对虾
+    - 技术优化
+  publications:
+    - title: 罗氏沼虾和斑节对虾高效养殖技术研究
+      link: #
